@@ -11,3 +11,13 @@ Case1 analyze the Yelp dataset.
 Here is the website of the Yelp dataset where you can download the data for analysis. [Link](https://www.yelp.com/dataset/challenge)
 
 In case1, we analyze review.json and business.json datasets. We mainly focus on exploring the relationship between users' review and their star ratings. The main model we use: Bag of Words. For more details, you can check with the source file.
+
+## Contributor of this project
+
+Daojun Liang (https://github.com/daojunL)
+
+Min Huang
+
+Qie Tang (https://github.com/tqjack)
+
+Fan Yang
