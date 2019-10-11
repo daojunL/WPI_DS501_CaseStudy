@@ -2,7 +2,7 @@
 
 Course: Introduction of Data Science 
 
-<b><i>Note</i></b> This repository contains the case study code of this class.
+<b><i>Note:</i></b> This repository contains the case study code of this class.
 
 ## Case1 
 
@@ -12,3 +12,6 @@ Here is the website of the Yelp dataset where you can download the data for anal
 
 In case1, we analyze review.json and business.json datasets. We mainly focus on exploring the relationship between users' review and their star ratings.
 
+The main model we use: Bag of Words. 
+
+For more details, you can check with the source file.
