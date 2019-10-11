@@ -1,4 +1,4 @@
-# WPI_ds501_Cases
+# WPI_DS501_Cases
 
 Course: Introduction of Data Science 
 
